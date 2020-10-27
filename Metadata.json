@@ -1,0 +1,20 @@
+{
+    "Author": "Cephas Lin",
+    "ContentSize": 21020,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-availability-group-listener-in-hybrid-it/master/ConfigureAGListenerHybrid.ps1",
+    "DownloadCount": 1771,
+    "Id": "Create-Availability-Group-3fc1ca5e",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 437,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2013-11-22T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script configures an availability group listener for an availability group that is running in hybrid IT. It automatically configures the Windows Azure settings and also configures each cluster node on-premise and in Windows Azure remotely using PowerShell remoting.",
+    "Title": "Create Availability Group Listener in Hybrid IT",
+    "UpdatedDate": "2013-11-22T00:00:00",
+    "Url": "https://github.com/azureautomation/create-availability-group-listener-in-hybrid-it",
+    "UserTags": "Microsoft Azure, Powershell, High Availability"
+}
